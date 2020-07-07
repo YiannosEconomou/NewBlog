@@ -1,11 +1,11 @@
 # basic options
-title: Kick Over The Statues
-author: Yiannos Economou
-email: yiannoseconomou@gmail.com
-description: A wonderful site
-twitter_username: YiannosEconomou
+title:  Kick Over The Statues
+author:  Yiannos Economou
+email:  yiannoseconomou@gmail.com
+description:  A wonderful site
+twitter_username:  YiannosEconomou
 github_username:  YiannosEconomou
 
 # Build settings
-markdown: kramdown
-theme: minima
+markdown:  kramdown
+theme:  minima
